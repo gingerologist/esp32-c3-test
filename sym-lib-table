@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name especial)(type Legacy)(uri /home/ma/repos/especial-lib/especial.lib)(options "")(descr ""))
+  (lib (name esp32-c3-test)(type Legacy)(uri ${KIPRJMOD}/esp32-c3-test.lib)(options "")(descr ""))
+)
